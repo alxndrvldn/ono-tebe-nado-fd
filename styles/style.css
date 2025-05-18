@@ -9,7 +9,7 @@
 .menu__list {
   display: flex;
   flex-direction: row;
-  gap: 32px; 
+  gap: 32px;
   line-height: 100%;
   font-size: 18px;
   padding-left: 52px;
@@ -34,7 +34,7 @@
 .header__logo {
   display: block;
   width: 135px;
-  height: 105px; 
+  height: 105px;
   padding-top: 94px;
   border: 6px;
 }
@@ -70,7 +70,7 @@
   background-color: rgba(0, 0, 0, 0.6);
   z-index: 1;
   inset: 0;
-} 
+}
 
 .cover__title {
   position: relative;
@@ -83,15 +83,15 @@
 }
 
 .accent-span {
-    display: block;
+  display: block;
 }
 
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 
 .text-right {
-    text-align: right;
+  text-align: right;
 }
 
 .cover__description {
@@ -126,7 +126,6 @@
 .lots {
   padding: 180px 24px 0 24px;
   position: relative;
-
 }
 
 .lots__heading {
@@ -138,7 +137,7 @@
 
 .lots__card-list {
   display: grid;
-  grid-template-columns: repeat(3 , 334px);
+  grid-template-columns: repeat(3, 334px);
   column-gap: 25px;
   list-style: none;
   flex-wrap: wrap;
@@ -198,7 +197,6 @@
 .card_type_book {
   height: 100%;
   display: block;
-  
 }
 
 .card_type_picture {
@@ -303,7 +301,7 @@
 .footer__social-list {
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(3 , 48px);
+  grid-template-columns: repeat(3, 48px);
   column-gap: 48px;
   padding-right: 50px;
 }
