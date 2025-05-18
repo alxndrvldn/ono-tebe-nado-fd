@@ -9,13 +9,13 @@
 .menu__list {
   display: flex;
   flex-direction: row;
-  gap: 32px;
-  list-style: none; 
+  gap: 32px; 
   line-height: 100%;
   font-size: 18px;
   padding-left: 52px;
   color: #000000;
   padding-top: 136px;
+  list-style: none;
 }
 
 .menu__list_item_lots {
@@ -34,9 +34,9 @@
 .header__logo {
   display: block;
   width: 135px;
-  height: 105px;
-  border: 6px; 
+  height: 105px; 
   padding-top: 94px;
+  border: 6px;
 }
 
 .contacts {
