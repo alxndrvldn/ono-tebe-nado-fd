@@ -4,7 +4,6 @@
   height: 293px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
-  
 }
 
 .menu__list {
@@ -73,7 +72,7 @@
   inset: 0;
 } 
 
-.cover__title{
+.cover__title {
   position: relative;
   z-index: 2;
   font-size: 100px;
@@ -126,7 +125,8 @@
 
 .lots {
   padding: 180px 24px 0 24px;
-  position: relative; 
+  position: relative;
+
 }
 
 .lots__heading {
@@ -289,7 +289,6 @@
 
 .footer__menu-list {
   list-style: none;
-  display: inline;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -309,7 +308,7 @@
   padding-right: 50px;
 }
 
-.footer__social-list-item  {
+.footer__social-list-item {
   width: 48px;
   height: 48px;
 }
