@@ -54,7 +54,7 @@
   background-size: cover;
   background-position: center;
   color: #fff;
-  min-height: 757px; 
+  min-height: 757px;
 }
 
 .overlay {
@@ -267,6 +267,7 @@
   color: #000000;
   margin-right: 5px;
 }
+
 .footer {
   display: flex;
   justify-content: space-between;
