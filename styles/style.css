@@ -178,27 +178,21 @@
   color: #fff;
   padding: 48px 40px;
   inset: 0;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .card__content_film {
   background-image: url(../images/photo.png);
-  height: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .card__content_book {
   background-image: url(../images/photo2.png);
-  height: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .card__content_picture {
   background-image: url(../images/photo3.png);
-  height: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .card__text {
@@ -245,9 +239,6 @@
 
 .about__text {
   margin-right: -2px;
-}
-
-.about__text_margin {
   margin-bottom: 24px;
 }
 
@@ -271,7 +262,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding-top: 180px;
+  padding-top: 157px;
 }
 
 .contacts__footer {
